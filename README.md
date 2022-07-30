@@ -1,2 +1,3 @@
 # Mark-7
- Translation App
+Translation App
+Groot Translator Uses Ordinary English Language and Translates it in Groot's Language! It is made using Javascript,HTML,CSS Chech Out here :-
